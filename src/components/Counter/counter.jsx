@@ -2,7 +2,6 @@ import { Statistics } from 'components/Statistics/statistics';
 import { Section } from 'components/Title/tittle';
 import { FeedbackOptions } from 'components/Statistics/statistics';
 import { useState } from 'react';
-import { useEffect } from 'react';
 
 export const Counter = () => {
   const [feedback, setFeedback] = useState({
