@@ -1,0 +1,13 @@
+.feedback-button {
+  margin-right: 10px;
+  background-color: rgb(87, 87, 242);
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  width: 100px;
+  border-color: none;
+  border-style: none;
+}
+.feedback-button:hover {
+  background-color: rgb(65, 154, 232);
+}
